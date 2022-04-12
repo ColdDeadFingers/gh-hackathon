@@ -1,0 +1,41 @@
+//Template for your solutions(C#) for the first question
+using System;
+using System.Collections.Generic;
+using System.IO;
+
+public class Biathlon
+{
+    public int[] find_winners(int[] track, int miss_penalty, string[] competitors)
+    {
+        // Your code goes here
+    }
+}
+----------------------------------------------------------------
+//Python
+class Biathlon:
+
+    def find_winners(self, track, miss_penalty, competitors):
+        # Your code goes here
+		
+-----------------------------------------------------------------
+//JavaScript
+'use strict';
+
+module.exports = {
+  find_winners
+};
+
+function find_winners(track, miss_penalty, competitors) {
+    // Your code goes here
+}
+
+------------------------------------------------------------------
+//Java
+public class Biathlon {
+    public static int[] find_winners(int[] track, int miss_penalty, String[] competitors) {
+        // Your code goes here
+    }
+}
+
+
+
